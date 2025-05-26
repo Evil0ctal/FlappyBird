@@ -64,7 +64,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/FlappyBird.git
+git clone https://github.com/Evil0ctal/FlappyBird.git
 cd FlappyBird
 ```
 
@@ -209,12 +209,7 @@ GET /api/leaderboard
 
 ## 👨‍💻 作者
 
-- 您的名字 - [GitHub](https://github.com/yourusername)
-
-## 🙏 致谢
-
-- 感谢 FastAPI 提供优秀的 Web 框架
-- 感谢所有贡献者的支持
+- Evil0ctal - [GitHub](https://github.com/Evil0ctal)
 
 ---
 
